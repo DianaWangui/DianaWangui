@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 ### My name is Diana Wangui
 
 - 🔭 I’m currently working on being a Fullstack Developer
@@ -10,5 +10,7 @@
 <div class="skills-list">
   <p class="skill">C- programming</p>
   <p class="skill">Web-Development</p>
-  <p class="skill">Python Programming</p>
+  <p class="skill">Problem solving</p>
+  <p class="skill">HTML</p>
+  <p class="skill">CSS</p>
 </div>

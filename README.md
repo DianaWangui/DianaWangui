@@ -12,23 +12,3 @@
   <p class="skill">Web-Development</p>
   <p class="skill">Python Programming</p>
 </div>
-
-<style>
-.skills-list {
-  display: flex;
-  flex-direction: column;
-}
-
-.skill {
-  overflow: hidden;
-  white-space: nowrap;
-  width: 0;
-  animation: rewrite 2s steps(25, end) 1s forwards;
-}
-
-@keyframes rewrite {
-  to {
-    width: auto;
-  }
-}
-</style>

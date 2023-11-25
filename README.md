@@ -1,7 +1,7 @@
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
- <source media="(prefers-color-scheme: light)" srcset="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
- <img alt="YOUR-ALT-TEXT" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
+ <source media="(prefers-color-scheme: dark)" srcset="https://i.ytimg.com/vi/-grF3kNF0gQ/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYACzgWKAgwIABABGD0gVShlMA8=&rs=AOn4CLBPAKQDr6f6FP3E8kqGyjKSELoGqg">
+ <source media="(prefers-color-scheme: light)" srcset="https://i.ytimg.com/vi/-grF3kNF0gQ/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYACzgWKAgwIABABGD0gVShlMA8=&rs=AOn4CLBPAKQDr6f6FP3E8kqGyjKSELoGqg">
+ <img alt="YOUR-ALT-TEXT" src="https://i.ytimg.com/vi/-grF3kNF0gQ/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYACzgWKAgwIABABGD0gVShlMA8=&rs=AOn4CLBPAKQDr6f6FP3E8kqGyjKSELoGqg">
 </picture>
 
 
@@ -15,7 +15,10 @@
 - ⚡ Fun fact: 70% of Programmers experience Impostor Syndrome
 
 
-### Language Skills
+
+<details>
+<summary>My Top Languages
+
 
 | Rank | CURRENT LANGUAGES |
 |-----:|-------------------|
@@ -24,3 +27,5 @@
 |     3|     HTML          |
 |     4|     CSS           |
 |     5|     JavaScript    |
+
+</summary>

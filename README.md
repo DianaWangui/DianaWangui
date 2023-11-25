@@ -6,7 +6,6 @@
 
 
 ## Hi there 👋
-
 ### My name is Diana Wangui
 
 - 🔭 Aspiring professional in the field of software development.

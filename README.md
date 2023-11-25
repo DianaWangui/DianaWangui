@@ -6,18 +6,21 @@
 
 
 ## Hi there 👋
+
 ### My name is Diana Wangui
 
-- 🔭 I’m currently working on being a Fullstack Developer
-- 🌱 I’m currently learning C programming and soon I will start working on Python Programming...
+- 🔭 Aspiring professional in the field of software development.
+- 🌱 Currently immersed in learning C programming, Python and JavaScript
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: Definitely coming back with one 😄
+- ⚡ Fun fact: 70% of Programmers experience Impostor Syndrome
 
-### My Skills
-<div class="skills-list">
-  <p class="skill">C- programming</p>
-  <p class="skill">Web-Development</p>
-  <p class="skill">Problem solving</p>
-  <p class="skill">HTML</p>
-  <p class="skill">CSS</p>
-</div>
+
+### Language Skills
+
+| Rank | CURRENT LANGUAGES |
+|-----:|-------------------|
+|     1|     C Programming |
+|     2|     Python        |
+|     3|     HTML          |
+|     4|     CSS           |
+|     5|     JavaScript    |

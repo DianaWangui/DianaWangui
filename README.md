@@ -7,7 +7,7 @@
   <a href="https://www.linkedin.com/in/diana-wangui-8967a0253/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="[your-twitter-UR](https://x.com/diana_velmah?t=1ICm0jtzeDPZH20jZP-xsg&s=09)">
+  <a href="https://x.com/diana_velmah?t=1ICm0jtzeDPZH20jZP-xsg&s=09">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>

@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/dEvfJaOEzxl9AUSzHP/giphy.gif" width="100"/>
+  <img src="https://gifdb.com/images/high/ai-humanoid-girl-neon-0byngj723ojhu25b.gif" width="120"/>
 
   
 
@@ -19,7 +19,7 @@
 
 
 <h1>
-  hey there
+  Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
@@ -28,7 +28,8 @@
 
 
 <div align="center">
-  <img src="https://i.ytimg.com/vi/-grF3kNF0gQ/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYACzgWKAgwIABABGD0gVShlMA8=&rs=AOn4CLBPAKQDr6f6FP3E8kqGyjKSELoGqg" width="600" height="300"/>
+  <img src="https://d3kjluh73b9h9o.cloudfront.net/original/4X/4/1/7/4175f677bdd6f6e3b6a572bbe5b104e6de35ea09.gif" width="700" height="400"/>
+  
 </div>
 
 

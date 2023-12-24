@@ -1,7 +1,6 @@
 <div id="header" align="center">
   <img src="https://gifdb.com/images/high/ai-humanoid-girl-neon-0byngj723ojhu25b.gif" width="120"/>
 
-  
 
  <div id="header">
   <a href="https://www.linkedin.com/in/diana-wangui-8967a0253/">
@@ -14,10 +13,9 @@
 
 <img src="https://komarev.com/ghpvc/?username=DianaWangui&style=flat-square&color=blue" alt=""/>
 
-<h1>
-  Hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+ <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=0000FF&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Diana+%F0%9F%91%8B;👨‍💻Computer+Science+Graduate;👨‍💻Student+at+ALX+SE;👨‍💻Software+Engineer;👨‍💻Web+Developer;Problem+Solver" alt="Headline" />
+</div>
 </div>
 
 <div align="center">

@@ -79,3 +79,5 @@ I am a Full Stack Developer in the making <img src="https://media.giphy.com/medi
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DianaWangui&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DianaWangui&show_icons=true&locale=en" alt="DianaWangui" /></p>
 
+<p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DianaWangui&theme=algolia" alt="DianaWangui" /></p>
+

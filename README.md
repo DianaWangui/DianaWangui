@@ -12,11 +12,7 @@
   </a>
 </div>
 
-
-
 <img src="https://komarev.com/ghpvc/?username=DianaWangui&style=flat-square&color=blue" alt=""/>
-
-
 
 <h1>
   Hey there
@@ -24,17 +20,10 @@
 </h1>
 </div>
 
-
-
-
 <div align="center">
   <img src="https://d3kjluh73b9h9o.cloudfront.net/original/4X/4/1/7/4175f677bdd6f6e3b6a572bbe5b104e6de35ea09.gif" width="600" height="250"/>
   
 </div>
-
-
-
-
 ---
 
 ### :woman_technologist: About Me :
@@ -46,9 +35,6 @@ I am a Full Stack Developer in the making <img src="https://media.giphy.com/medi
 - :zap: In my free time, I love taking challenges on different coding platform.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-diana-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/diana-wangui-8967a0253/)
-
-
-
 
 ---
 
@@ -63,14 +49,9 @@ I am a Full Stack Developer in the making <img src="https://media.giphy.com/medi
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" **alt="vscode" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-
-  
-  
+ 
   
 </div>
-
-
-
 ---
 
 ### :fire: My Stats :
@@ -81,3 +62,6 @@ I am a Full Stack Developer in the making <img src="https://media.giphy.com/medi
 
 <p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DianaWangui&theme=algolia" alt="DianaWangui" /></p>
 
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=DianaWangui&theme=algolia&column=3&row=2&margin-w=15&margin-h=15&no-bg=false" alt="DianaWangui's Trophies" />
+</p>
